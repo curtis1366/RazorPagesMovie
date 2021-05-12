@@ -25,7 +25,7 @@ namespace RazorPagesMovie.Models
                     {
                         Title = "game option #1",
                         ReleaseDate = DateTime.Parse("1989-2-12"),
-                        Genre = "horror",
+                        Genre = "Horror",
                         Price = 7.99M,
                         Rating = "R"
                     },
@@ -34,7 +34,7 @@ namespace RazorPagesMovie.Models
                     {
                         Title = "game option #2 ",
                         ReleaseDate = DateTime.Parse("1984-3-13"),
-                        Genre = "simulator",
+                        Genre = "Simulator",
                         Price = 8.99M,
                         Rating = "M"
                     },
